@@ -45,6 +45,7 @@
                  android:permission="XiaomiDozeService">
         </service>
 
+        <!-- 
         <activity
             android:name=".DozeSettingsActivity"
             android:label="@string/ambient_display_title"
@@ -54,6 +55,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        -->
 
     </application>
 </manifest>

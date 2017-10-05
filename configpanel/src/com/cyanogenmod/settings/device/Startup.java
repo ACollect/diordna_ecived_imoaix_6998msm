@@ -26,7 +26,7 @@ import android.content.SharedPreferences;
 import android.support.v7.preference.PreferenceManager;
 import android.util.Log;
 
-import org.cyanogenmod.internal.util.FileUtils;
+// import org.cyanogenmod.internal.util.FileUtils;
 
 public class Startup extends BroadcastReceiver {
 

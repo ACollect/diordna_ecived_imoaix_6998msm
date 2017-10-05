@@ -26,9 +26,9 @@ import android.view.KeyEvent;
 
 import com.android.internal.os.DeviceKeyHandler;
 
-import org.cyanogenmod.internal.util.FileUtils;
+// import org.cyanogenmod.internal.util.FileUtils;
 
-import cyanogenmod.hardware.CMHardwareManager;
+// import cyanogenmod.hardware.CMHardwareManager;
 
 public class KeyHandler implements DeviceKeyHandler {
 
