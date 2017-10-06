@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "los",
+    "revision": "cm-14.1",
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "los",
+    "revision": "cm-14.1",
+    "repository": "LineageOS/android_kernel_xiaomi_msm8996",
+    "target_path": "kernel/xiaomi/msm8996"
+  },
+  {
+    "remote": "los",
+    "revision": "cm-14.1",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "remote": "los",
+    "revision": "cm-14.1",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
+    "target_path": "vendor/nxp-nfc/opensource/frameworks"
+  },
+  {
+    "remote": "los",
+    "revision": "cm-14.1",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "target_path": "vendor/nxp-nfc/opensource/libnfc-nci"
+  },
+  {
+    "remote": "los",
+    "revision": "cm-14.1",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_Nfc",
+    "target_path": "vendor/nxp-nfc/opensource/Nfc"
+  },
+  {
+    "remote": "acol",
+    "revision": "gemini-nougat",
+    "repository": "ACollect/yrateirporp_rodnev_imoaix",
+    "target_path": "vendor/xiaomi"
+  }
+]
