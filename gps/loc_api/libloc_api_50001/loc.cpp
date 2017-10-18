@@ -257,7 +257,7 @@ extern "C" const GpsInterface* get_gps_interface()
     case GNSS_QCA1530:
         // qca1530 chip is present
         gps_conf.CAPABILITIES &= ~(GPS_CAPABILITY_MSA | GPS_CAPABILITY_MSB);
-        LOC_LOGD("qca1530 present: CAPABILITIES %0lx\n", gps_conf.CAPABILITIES);
+        LOC_LOGD("qca1530 present: CAPABILITIES %u\n", gps_conf.CAPABILITIES);
         break;
     }
     return &sLocEngInterface;
