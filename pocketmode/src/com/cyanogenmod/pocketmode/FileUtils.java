@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.settings.gemini.utils;
+package com.cyanogenmod.pocketmode;
 
 import android.util.Log;
 
